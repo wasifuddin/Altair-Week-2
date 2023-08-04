@@ -1,3 +1,4 @@
+# pip install cvzone
 import cv2
 from cvzone.ColorModule import ColorFinder
 # Creating Color Finding Object
